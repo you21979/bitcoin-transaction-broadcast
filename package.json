@@ -1,0 +1,23 @@
+{
+  "name": "bitcoin-transaction-broadcast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/you21979/bitcoin-transaction-broadcast.git"
+  },
+  "author": "Yuki Akiyama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/you21979/bitcoin-transaction-broadcast/issues"
+  },
+  "homepage": "https://github.com/you21979/bitcoin-transaction-broadcast#readme",
+  "dependencies": {
+    "bitcoin-core": "^2.0.0",
+    "fastify": "^0.38.0"
+  }
+}
